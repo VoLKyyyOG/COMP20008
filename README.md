@@ -8,10 +8,10 @@ Role: Tutor
 
 ### Semester 1 Workshop Times
 #### Thurs 7pm - 8pm:  
-- Join URL: https://applications.zoom.us/lti/rich/s/88940192204?oauth_consumer_key=An-rf1gZRTu-IFz3CIlUnA&lti_scid=9eab927520e2610888c0ee6b38870df34a935983671dc385eb3c3ab2ad756f95
+- Join URL: https://unimelb.zoom.us/j/88940192204?pwd=c1dwTWU2bnJKL2FBZ2xudm5PWENLUT09
 
 #### Fri 3:15pm - 4:15pm:  
-- Join URL: https://applications.zoom.us/lti/rich/s/85918742021?oauth_consumer_key=An-rf1gZRTu-IFz3CIlUnA&lti_scid=9eab927520e2610888c0ee6b38870df34a935983671dc385eb3c3ab2ad756f95
+- Join URL: https://unimelb.zoom.us/j/6908756681?pwd=SGxCbTR4QkwyT2RGcnI3U1pkOHlXQT09
 
 #### Live Consultation Times:
 - TBA
