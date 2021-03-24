@@ -1,0 +1,80 @@
+significance, numeric, lga_name06, ci_high, vic_ave, lga_code06, ci_low
+"none",46.1,"Moyne (S)",53.0,50.7,25490,39.4
+"none",46.3,"Alpine (S)",53.4,50.7,20110,39.3
+"none",45.2,"Ararat (RC)",53.6,50.7,20260,37.0
+"none",49.2,"Ballarat (C)",52.3,50.7,20570,46.1
+"none",56.6,"Banyule (C)",63.3,50.7,20660,49.6
+"better",59.4,"Bass Coast (S)",66.1,50.7,20740,52.3
+"none",45.0,"Baw Baw (S)",52.6,50.7,20830,37.7
+"better",71.6,"Bayside (C)",77.7,50.7,20910,64.7
+"none",44.3,"Benalla (RC)",51.4,50.7,21010,37.6
+"better",65.4,"Boroondara (C)",72.0,50.7,21110,58.1
+"worse",36.5,"Brimbank (C)",42.2,50.7,21180,31.2
+"none",49.9,"Buloke (S)",58.4,50.7,21270,41.4
+"worse",35.4,"Campaspe (S)",42.0,50.7,21370,29.3
+"worse",40.5,"Cardinia (S)",48.2,50.7,21450,33.3
+"worse",41.9,"Casey (C)",47.1,50.7,21610,36.9
+"none",47.0,"Central Goldfields (S)",53.8,50.7,21670,40.4
+"none",46.9,"Colac-Otway (S)",54.3,50.7,21750,39.7
+"worse",41.9,"Corangamite (S)",49.3,50.7,21830,34.8
+"none",47.9,"Darebin (C)",55.2,50.7,21890,40.6
+"none",55.6,"East Gippsland (S)",62.7,50.7,22110,48.2
+"worse",42.0,"Frankston (C)",49.5,50.7,22170,34.8
+"worse",40.5,"Gannawarra (S)",47.7,50.7,22250,33.7
+"none",58.8,"Glen Eira (C)",65.8,50.7,22310,51.5
+"none",46.0,"Glenelg (S)",53.5,50.7,22410,38.8
+"worse",41.7,"Golden Plains (S)",48.2,50.7,22490,35.4
+"none",46.4,"Greater Bendigo (C)",53.4,50.7,22620,39.6
+"worse",37.0,"Greater Dandenong (C)",44.8,50.7,22670,29.8
+"none",52.2,"Greater Geelong (C)",57.5,50.7,22750,46.8
+"none",44.6,"Greater Shepparton (C)",52.2,50.7,22830,37.3
+"none",44.1,"Hepburn (S)",51.4,50.7,22910,37.1
+"none",52.7,"Hindmarsh (S)",60.4,50.7,22980,44.8
+"none",50.0,"Hobsons Bay (C)",57.2,50.7,23110,42.8
+"none",44.6,"Horsham (RC)",51.6,50.7,23190,37.8
+"worse",40.7,"Hume (C)",47.7,50.7,23270,34.0
+"none",51.1,"Indigo (S)",57.6,50.7,23350,44.6
+"better",63.9,"Kingston (C)",70.1,50.7,23430,57.2
+"none",49.6,"Knox (C)",57.3,50.7,23670,41.9
+"none",48.0,"Latrobe (C)",55.2,50.7,23810,40.9
+"worse",37.8,"Loddon (S)",47.4,50.7,23940,29.0
+"none",47.2,"Macedon Ranges (S)",54.1,50.7,24130,40.4
+"none",49.7,"Manningham (C)",57.0,50.7,24210,42.4
+"none",55.8,"Mansfield (S)",62.6,50.7,24250,48.9
+"none",55.7,"Maribyrnong (C)",63.0,50.7,24330,48.2
+"none",55.8,"Maroondah (C)",62.7,50.7,24410,48.6
+"better",66.5,"Melbourne (C)",74.2,50.7,24600,57.9
+"none",43.4,"Melton (S)",50.5,50.7,24650,36.5
+"worse",42.7,"Mildura (RC)",48.1,50.7,24780,37.5
+"worse",37.3,"Mitchell (S)",45.0,50.7,24850,30.1
+"worse",40.7,"Moira (S)",47.7,50.7,24900,34.1
+"none",53.3,"Monash (C)",60.4,50.7,24970,46.1
+"none",55.0,"Moonee Valley (C)",62.8,50.7,25060,46.9
+"none",48.8,"Moorabool (S)",55.7,50.7,25150,42.0
+"none",46.0,"Moreland (C)",52.8,50.7,25250,39.4
+"better",60.4,"Mornington Peninsula (S)",68.0,50.7,25340,52.3
+"none",50.3,"Mount Alexander (S)",56.9,50.7,25430,43.7
+"none",53.1,"Murrindindi (S)",59.5,50.7,25620,46.6
+"none",56.2,"Nillumbik (S)",63.1,50.7,25710,49.1
+"none",48.5,"Northern Grampians (S)",55.6,50.7,25810,41.5
+"better",76.2,"Port Phillip (C)",81.9,50.7,25900,69.5
+"worse",35.3,"Pyrenees (S)",44.3,50.7,25990,27.2
+"better",79.3,"Queenscliffe (B)",87.6,50.7,26080,67.5
+"none",45.2,"South Gippsland (S)",53.2,50.7,26170,37.4
+"worse",41.2,"Southern Grampians (S)",48.3,50.7,26260,34.5
+"better",63.2,"Stonnington (C)",70.6,50.7,26350,55.0
+"none",45.5,"Strathbogie (S)",54.4,50.7,26430,36.8
+"better",74.7,"Surf Coast (S)",80.2,50.7,26490,68.3
+"worse",37.3,"Swan Hill (RC)",44.9,50.7,26610,30.3
+"none",47.7,"Towong (S)",55.9,50.7,26670,39.6
+"none",48.0,"Wangaratta (RC)",55.0,50.7,26700,41.1
+"none",50.5,"Warrnambool (C)",57.3,50.7,26730,43.6
+"worse",43.1,"Wellington (S)",49.6,50.7,26810,36.7
+"worse",39.7,"West Wimmera (S)",48.0,50.7,26890,32.0
+"none",48.5,"Whitehorse (C)",56.5,50.7,26980,40.7
+"worse",31.4,"Whittlesea (C)",37.9,50.7,27070,25.6
+"none",52.6,"Wodonga (RC)",59.8,50.7,27170,45.3
+"none",52.6,"Wyndham (C)",59.8,50.7,27260,45.3
+"better",67.7,"Yarra (C)",74.8,50.7,27350,59.7
+"none",50.9,"Yarra Ranges (S)",57.7,50.7,27450,44.1
+"none",44.5,"Yarriambiack (S)",53.1,50.7,27630,36.2
