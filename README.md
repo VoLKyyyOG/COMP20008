@@ -6,15 +6,8 @@ Staff: akira.wang@unimelb.edu.au
 Role: Tutor 
 ```
 
-### Semester 1 Workshop Times
-#### Thurs 7pm - 8pm:  
-- Join URL: https://unimelb.zoom.us/j/88940192204?pwd=c1dwTWU2bnJKL2FBZ2xudm5PWENLUT09
-
-#### Fri 3:15pm - 4:15pm:  
-- Join URL: https://unimelb.zoom.us/j/6908756681?pwd=SGxCbTR4QkwyT2RGcnI3U1pkOHlXQT09
-
-#### Live Consultation Times:
-- TBA
+### Semester 2 Workshop Times
+#### TBA
 
 ### Jupyter Notebook / Jupyter Hub
 - [Online JupyterHub Server](https://comp20008-jh.eng.unimelb.edu.au:8443/user/akwang/tree)
@@ -30,5 +23,3 @@ Role: Tutor
 - Stack Overflow (Yahoo answers / Quora for programmers): [Stack Overflow](https://stackoverflow.com/)
 - Code Editor: [VS Code](https://code.visualstudio.com/)
 - Browser: [Brave - based off Chromium with in-built adblocking](https://brave.com/)
-
-(test for pull)
