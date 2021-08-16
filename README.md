@@ -23,3 +23,5 @@ Role: Tutor
 - Stack Overflow (Yahoo answers / Quora for programmers): [Stack Overflow](https://stackoverflow.com/)
 - Code Editor: [VS Code](https://code.visualstudio.com/)
 - Browser: [Brave - based off Chromium with in-built adblocking](https://brave.com/)
+
+a change for the monday tute!
