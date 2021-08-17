@@ -24,4 +24,4 @@ Role: Tutor
 - Code Editor: [VS Code](https://code.visualstudio.com/)
 - Browser: [Brave - based off Chromium with in-built adblocking](https://brave.com/)
 
-a change for the monday tute!
+the tues tute is better :^)
