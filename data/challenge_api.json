@@ -1,0 +1,84 @@
+{
+  "cinema": [
+    {
+      "cinema_id": 8941,
+      "cinema_name": "Vue Cinemas - Reading",
+      "showings": [
+        {
+          "film_id": 227902,
+          "film_name": "The Predator",
+          "times": {
+            "standard": [
+              {
+                "start_time": "14:30",
+                "date": "2018-09-14"
+              }
+            ],
+            "VMAX": [
+              {
+                "start_time": "15:45",
+                "date": "2018-09-15"
+              }
+            ]
+          }
+        },
+        {
+          "film_id": 123456,
+          "film_name": "Avengers",
+          "times": {
+            "VMAX": [
+              {
+                "start_time": "17:05",
+                "date": "2018-09-15"
+              },
+              {
+                "start_time": "19:25",
+                "date": "2018-09-16"
+              }
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "cinema_id": 8932,
+      "cinema_name": "Another Cinemas",
+      "showings": [
+        {
+          "film_id": 227902,
+          "film_name": "The Predator",
+          "times": {
+            "VMAX": [
+              {
+                "start_time": "14:30",
+                "date": "2018-09-14"
+              }
+            ],
+            "standard": [
+              {
+                "start_time": "15:45",
+                "date": "2018-09-15"
+              }
+            ]
+          }
+        },
+        {
+          "film_id": 123456,
+          "film_name": "Avengers",
+          "times": {
+            "standard": [
+              {
+                "start_time": "17:05",
+                "date": "2018-09-15"
+              },
+              {
+                "start_time": "19:25",
+                "date": "2018-09-16"
+              }
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}
